@@ -3,7 +3,7 @@
 
 ## Description
 
-This repository contains a Rust data engineering project that focuses on [insert project focus here]. The project aims to [insert project goals here].
+This repository contains a Rust data engineering projects that i made while learning Rust Data Engineering
 
 
 ## Contact
